@@ -63,7 +63,7 @@ export default function Register() {
           onChange={handleChange}
           checked={formData.joinedNewsletter}
         />
-        <label htmlFor='okayToEmail'>I want to join the newsletter</label>
+        <label htmlFor='okayToEmail'>I want to join the newsletter!</label>
       </div>
       <button className='form--submit'>Sign up</button>
     </form>
